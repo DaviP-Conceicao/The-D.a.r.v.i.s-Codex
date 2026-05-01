@@ -1,0 +1,5 @@
+requests==2.31.0
+python-dotenv==1.0.0
+#Futuras integrações (Github API)7
+PyGitthub==2.1.1
+python-telegram-bot==20.7
